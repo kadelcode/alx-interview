@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 '''
 returns list representing the Pascal's triangle of n
 '''
