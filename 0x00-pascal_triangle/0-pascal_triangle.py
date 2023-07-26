@@ -1,4 +1,5 @@
-eturns list representing the Pascal's triangle of n
+'''
+returns list representing the Pascal's triangle of n
 '''
 
 
