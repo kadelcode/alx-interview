@@ -20,12 +20,12 @@ $ sudo apt-get install -y nodejs
 ```
 
 ### Install semi-standard
-[Documentation]()
+[Documentation](https://github.com/standard/semistandard)
 ```
 $ sudo npm install semistandard --global
 ```
 ### Install ```request``` module and use it
-Documentation
+[Documentation](https://github.com/request/request)
 ```
 $ sudo npm install request --global
 $ export NODE_PATH=/usr/lib/node_modules
